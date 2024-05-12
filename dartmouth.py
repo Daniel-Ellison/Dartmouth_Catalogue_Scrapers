@@ -1,5 +1,6 @@
 """
-Copyright (C) 2024 Daniel Ellison Th '24. All rights reserved. Python 3.11.
+Copyright (C) 2024 Daniel Ellison Th '24. All rights reserved. 
+
 Interfaces to the Dartmouth Timetable and API
 
 >>> key = '<...Dartmouth API key...>'
