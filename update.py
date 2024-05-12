@@ -1,6 +1,5 @@
 """
 Copyright (C) 2024 Daniel Ellison Th '24. All rights reserved.
-Create JS data file for DART front-end
 
 Scrape data from Timetable and API into JS data file
 
