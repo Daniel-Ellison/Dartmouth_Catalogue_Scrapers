@@ -4,6 +4,7 @@ Provides data scrapers for Dartmouth College's course offerings.
 
 ## Usage
 
+Visit http://developer.dartmouth.edu to get an API key.
 ```
 >>> import update 
 >>> dartmouth_key = "...Dartmouth API key..."
