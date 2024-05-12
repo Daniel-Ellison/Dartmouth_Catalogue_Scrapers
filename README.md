@@ -29,7 +29,7 @@ const Timetable = {
 }
 ```
 
-#### API.academic.sections (Sample)
+#### API.academic.sections (sample)
 > Schema is coordinated with the [Dartmouth API](http://developer.dartmouth.edu). 
 
 ```
